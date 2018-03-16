@@ -1,0 +1,5 @@
+﻿  IntroductionToOMP.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\just4\source\repos\openmp\openmp\introductiontoomp.cpp(45): warning C4101: 'x': unreferenced local variable
+c:\users\just4\source\repos\openmp\openmp\introductiontoomp.cpp(141): warning C4101: 'temp': unreferenced local variable
+  OpenMP.vcxproj -> C:\Users\just4\source\repos\OpenMP\Debug\OpenMP.exe
